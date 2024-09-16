@@ -78,3 +78,22 @@ background-color: var(--primary-color);
 color: white;
 padding: 10px 0;
 }
+
+figure {
+margin: 20px 0;
+text-align: center;
+}
+
+figure img {
+max-width: 100%;
+height: auto;
+}
+
+figcaption {
+font-style: italic;
+color: var(--text-color);
+}
+
+section {
+margin-bottom: 20px;
+}
